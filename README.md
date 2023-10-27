@@ -1,6 +1,7 @@
-# vuetify_project
+# Films
+#### The application for displaying information about popular movies fetched from TheMovieDB.
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
